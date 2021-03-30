@@ -1,0 +1,5 @@
+ja:
+  time:
+    formats:
+      default: "%Y/%m/%d %H:%M:%S"
+      # %m = month : %M = minuit / %d = days %D = date(%m/%d/%Y)
